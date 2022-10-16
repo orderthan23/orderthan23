@@ -1,16 +1,35 @@
-# 고종현
+# Jonghyun Ko
 
-Last Updated. 2021/12/28
+Last Updated. 2022/10/16
 
+### Client
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFE?style=flat&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/NextJS-000000?style=flat&logo=Next.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jquery-0769AD?style=flat&logo=jQuery&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Gatsby-663399?style=flat&logo=Gatsby&logoColor=white"/></a>
+
+### Server
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Elastic search-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
+
+### Deploy
+<img src="https://img.shields.io/badge/Atlassian-0052CC?style=flat-square&logo=Atlassian&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 ---
-
-📞 010-7447-0547
+## Contact
 
 💌 skygg@naver.com
 
-⛺ 용인시 거주
-
-👤 29세 (병역 완료)
 
 ---
 
@@ -18,9 +37,12 @@ I **[Github](https://github.com/orderthan23?tab=repositories)** I **[Notion](htt
 
 ---
 
-# 소개
 
-1년차 개발자로 소규모 SI 팀에서 백엔드, UI 디자이너, QA 엔지니어와 함께 
+---
+
+## Introduce
+
+2년차 개발자로 소규모 SI 팀에서 백엔드, UI 디자이너, QA 엔지니어와 함께 
 
 1명의 프론트엔드 개발자로 웹 서비스 개발을 진행하였습니다.
 
@@ -42,7 +64,7 @@ Notion을 활용해 개발 래퍼런스를 스크랩 및 정리하는 것을 좋
 
 소통과 협업을 통해 문제를 해결하고 사용자에게 만족감을 줄 수 있은 웹 애플리케이션을 만들어 회사 및 본인의 성장에 기여하고 싶습니다.
 
-# 경험
+## Career
 
 ### [미엘린소프트](https://www.myelinsoft.com)( 2020.11 ~ 2021.12)
 
@@ -153,75 +175,3 @@ FTP 접속, 혹은 기타 호스팅업체 관리툴 ( 카페24, 고도몰, 가�
 개인적으로 Python의 PYQT5와 openpyXL 라이브러리를 활용해 부분 자동화 할 수 있는 툴 개발 후  피드 점검 진행 
 
 WiderPlanet 과의 이슈 관리는 Jira, Slack을 통해 진행
-
----
-
-# 기술
-
-### JavaScript
-
-자바스크립트를 사용하여 UI/UX 컴포넌트 개발이 가능합니다.
-
-ECMA6 문법을 사용한 코드 서술이 가능합니다.
-
----
-
-### React JS
-
-Next JS를 사용하여 SSR 프로젝트를 진행한 경험이 있으며 
-
-state 관리는  Redux, Context API, Recoil을 사용할 수 있습니다.
-
-미들웨어로는 Redux-Saga 사용합니다.
-
----
-
-### TypeScript
-
-인터페이스 기능을 활용해 타입을 정의하여
-
-리액트 환경에서의 타입스크립트 활용이 가능합니다.
-
-### HTML5 & CSS
-
-Simentic 태그 및 Flex Layout을 사용하여 퍼블리싱이 가능합니다.
-
-BootStrap4를 사용한 반응형 디자인 퍼블리싱을 진행한 경험이 있습니다.
-
-Zeplin을 활용하여 디자이너와 소통하며 퍼블리싱 진행 경험이 있으며 
-
-프로토 타입 툴로 Figma를 다룰수 있습니다.
-
----
-
-### SCSS
-
-SCSS 문법을 사용하여 스타일시트를 작성할 수 있습니다.
-
-gulp를 사용하여 Scss 파일을 컴파일 하고 있습니다.
-
----
-
-### Java & Spring Boot
-
-Java 언어와 Spring Boot JPA, QueryDSL을 사용하여 
-
-CRUD 및 RestAPI 개발이 가능합니다.
-
-해당 경험이 백엔드 개발자와의 협업시 이해에 도움이 될 것이라 생각합니다.
-
----
-
-### PHP
-
-PHP의 CodeIgnitor 프레임워크를 사용해 간단한 MVC 패턴의 사이트 개발이 가능합니다.
-
-# 사회 경험(교육, 자격증, 기타 이력)
-
-- 서울 사이버 대학교 컴퓨터공학과 재학 (21.02 ~ )
-- KH 정보교육원 NCS 웹 기반 스마트 플랫폼 UI/UX 응용 SW 개발자 양성과정 수료 ( 20.02 ~ 20.09)
-- 정보처리 기능사 취득 (19.06)
-- IOT 지식능력검정 취득 (19.05)
-- 경기도 기술학교 IOT Makers 과정 수료 ( 19.01 ~ 19.12)
-
----
