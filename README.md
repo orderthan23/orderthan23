@@ -35,6 +35,9 @@ Last Updated. 2022/10/16
 
 ![olderthan23's github stats](https://github-readme-stats.vercel.app/api?username=orderthan23&show_icons=true)
 [![olderthan23's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=orderthan23&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/orderthan23)
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 ---
 ## Contact
 
