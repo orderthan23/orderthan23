@@ -37,7 +37,40 @@ Last Updated. 2022/10/16
 [![olderthan23's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=orderthan23&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/orderthan23)
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+
+**🐱 저의 GitHub 정보에요.** 
+
+> 🏆 15 만큼의 Contributions을 2022년에 했어요
+ > 
+> 📦 GitHub의 104.3 kB만큼의 저장소를 사용하고 있어요. 
+ > 
+> 🚫 구직중이지 않아요.
+ > 
+> 📜 18개의 Public Repository를 만들었어요. 
+ > 
+> 🔑 4개의 Private Repository를 만들었어요.  
+ > 
+**저는 주로 Java 언어를 사용해요.** 
+
+```text
+Java                     9 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
+TypeScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
+
+```
+
+
+**타임라인**
+
+![Chart not found](https://raw.githubusercontent.com/orderthan23/orderthan23/main/charts/bar_graph.png) 
+
+
+ Last Updated on 02/11/2022 13:30:48 UTC
+<!--END_SECTION:waka-->
 ---
 ## Contact
 
