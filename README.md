@@ -37,9 +37,9 @@ Last Updated. 2022/10/16
 [![olderthan23's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=orderthan23&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/orderthan23)
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
 
 **🐱 저의 GitHub 정보에요.** 
 
@@ -119,7 +119,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/orderthan23/orderthan23/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/11/2022 18:50:04 UTC
+ Last Updated on 05/11/2022 18:47:38 UTC
 <!--END_SECTION:waka-->
 ---
 ## Contact
