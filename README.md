@@ -12,11 +12,7 @@ Last Updated. 2022/10/16
 <img src="https://img.shields.io/badge/NextJS-000000?style=flat&logo=Next.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat&logo=jQuery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Gatsby-663399?style=flat&logo=Gatsby&logoColor=white"/></a>
-<br/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white"/></a>
 <br/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></a>
@@ -36,96 +32,7 @@ Last Updated. 2022/10/16
 ![olderthan23's github stats](https://github-readme-stats.vercel.app/api?username=orderthan23&show_icons=true)
 [![olderthan23's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=orderthan23&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/orderthan23)
 
-  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue)
-
-**🐱 저의 GitHub 정보에요.** 
-
-> 🏆 15 만큼의 Contributions을 2022년에 했어요
- > 
-> 📦 GitHub의 104.4 kB만큼의 저장소를 사용하고 있어요. 
- > 
-> 🚫 구직중이지 않아요.
- > 
-> 📜 18개의 Public Repository를 만들었어요. 
- > 
-> 🔑 4개의 Private Repository를 만들었어요.  
- > 
-**저는 저녁형 인간이에요. 🦉** 
-
-```text
-🌞 아침         0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 낮　         3 commits      ███████░░░░░░░░░░░░░░░░░░   30.0% 
-🌃 저녁         7 commits      █████████████████░░░░░░░░   70.0% 
-🌙 밤　         0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **제가 가장 생산적인 날은 수요일이에요.** 
-
-```text
-월요일          0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-화요일          0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-수요일          4 commits      ██████████░░░░░░░░░░░░░░░   40.0% 
-목요일          0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-금요일          1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-토요일          1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-일요일          4 commits      ██████████░░░░░░░░░░░░░░░   40.0%
-
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-⌚︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-JavaScript               30 hrs 9 mins       ████████████████████████░   96.62% 
-Text                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65% 
-Java                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2% 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
-
-🔥 에디터들: 
-WebStorm                 31 hrs 7 mins       █████████████████████████   99.74% 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
-
-🐱‍💻 프로젝트들: 
-family-album-next-app    31 hrs 2 mins       ████████████████████████░   99.46% 
-family-album-api         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45% 
-jellyview_admin          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
-babydiary-next-app       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
-jellyview_app            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
-
-💻 운영 체제들: 
-Windows                  31 hrs 12 mins      █████████████████████████   100.0%
-
-```
-
-**저는 주로 Java 언어를 사용해요.** 
-
-```text
-Java                     9 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-TypeScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
-
-```
-
-
-**타임라인**
-
-![Chart not found](https://raw.githubusercontent.com/orderthan23/orderthan23/main/charts/bar_graph.png) 
-
-
- Last Updated on 08/11/2022 19:00:51 UTC
-<!--END_SECTION:waka-->
----
-## Contact
 
 💌 skygg@naver.com
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hg121500)](https://solved.ac/hg121500/)
